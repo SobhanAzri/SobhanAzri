@@ -22,7 +22,9 @@ I’m passionate about **Game Development**, with a strong interest in **C++** a
 Currently, I’m focusing on building engaging experiences in **Unreal Engine**, while continuously expanding my knowledge of programming and game design.
 
 ## Tech Stack
-Unreal Engine · C++ · Blender
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-azari)
