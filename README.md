@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-#  Hi, I’m Sobhan Azri
+#  Hi, I’m Sobhan Azari Asl
 
 ## About Me
 I’m passionate about **Game Development**, with a strong interest in **C++** and **Gameplay Programming**.  
