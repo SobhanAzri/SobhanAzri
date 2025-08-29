@@ -7,7 +7,6 @@ Currently, I’m focusing on building engaging experiences in **Unreal Engine**,
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
